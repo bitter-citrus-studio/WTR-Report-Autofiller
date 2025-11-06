@@ -24,3 +24,5 @@ The idea behind this is to make something that resembles a password manager for 
 - When the form is finished on the popup window, the fill form button is clicked and this will populate the report form on the webpage.
 
 The report and other options can then be changed on the webpage, if required.
+
+> If you find issues with the popout not working or logic not working as intended, please add it to the issues panel on this repository or email me: [bittercitrusstudios@gmail.com](mailto:bittercitrusstudios@gmail.com?subject=WTR%20Report%20Auto-filler%20Issue)
