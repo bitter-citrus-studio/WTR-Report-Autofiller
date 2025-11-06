@@ -21,6 +21,6 @@ The idea behind this is to make something that resembles a password manager for 
 - The user can input the relevant information
 - A few of the form options now have a drop down of well used phrases
 - The report box will create a sample report based on the team, number and law. 
-- When finished the form, when the fill form button is clicked, will fill the report on the webpage.
+- When the form is finished on the popup window, the fill form button is clicked and this will populate the report form on the webpage.
 
-The report and other options can then be refined, if required.
+The report and other options can then be changed on the webpage, if required.
