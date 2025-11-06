@@ -15,7 +15,8 @@
 <p>The extension requests permissions such as:</p>
 <ul>
   <li><strong>activeTab </strong> – to detect the active page and inject autofill scripts.</li>
-  <li><strong>Host permissions</strong> – to access the specific websites where forms are filled.</li>  
+  <li><strong>Host permissions</strong> – to access the specific websites where forms are filled.</li>
+  <li><strong>storage</strong> – only to save user preferences locally, if applicable.</li>
 </ul>
 <p>These permissions are used exclusively to provide the autofill functionality described above.</p>
 
